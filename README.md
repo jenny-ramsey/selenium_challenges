@@ -1,4 +1,4 @@
-Makers Challenge for Java Fundamentals and End-to-End Testing module - May 2025
+**Makers Challenge for Java Fundamentals and End-to-End Testing module - May 2025**
 
 Record yourself writing a Selenium test to accomplish the following:
 
